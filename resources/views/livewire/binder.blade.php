@@ -3,5 +3,5 @@
 
     <br>
 
-    <h2>{{ $jina }}</h2>
+    <h2>Habari yako {{ $jina }}</h2>
 </div>
